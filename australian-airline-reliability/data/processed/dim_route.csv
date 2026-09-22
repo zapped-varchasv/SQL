@@ -1,0 +1,129 @@
+route_id,route,origin,destination
+1,Adelaide-Alice Springs,Adelaide,Alice Springs
+2,Adelaide-Brisbane,Adelaide,Brisbane
+3,Adelaide-Cairns,Adelaide,Cairns
+4,Adelaide-Canberra,Adelaide,Canberra
+5,Adelaide-Darwin,Adelaide,Darwin
+6,Adelaide-Gold Coast,Adelaide,Gold Coast
+7,Adelaide-Melbourne,Adelaide,Melbourne
+8,Adelaide-Perth,Adelaide,Perth
+9,Adelaide-Port Lincoln,Adelaide,Port Lincoln
+10,Adelaide-Sydney,Adelaide,Sydney
+11,Albury-Sydney,Albury,Sydney
+12,Alice Springs-Adelaide,Alice Springs,Adelaide
+13,Armidale-Sydney,Armidale,Sydney
+14,Ayers Rock-Melbourne,Ayers Rock,Melbourne
+15,Ballina-Sydney,Ballina,Sydney
+16,Brisbane-Adelaide,Brisbane,Adelaide
+17,Brisbane-Cairns,Brisbane,Cairns
+18,Brisbane-Canberra,Brisbane,Canberra
+19,Brisbane-Darwin,Brisbane,Darwin
+20,Brisbane-Emerald,Brisbane,Emerald
+21,Brisbane-Gladstone,Brisbane,Gladstone
+22,Brisbane-Hamilton Island,Brisbane,Hamilton Island
+23,Brisbane-Hobart,Brisbane,Hobart
+24,Brisbane-Launceston,Brisbane,Launceston
+25,Brisbane-Mackay,Brisbane,Mackay
+26,Brisbane-Melbourne,Brisbane,Melbourne
+27,Brisbane-Mount Isa,Brisbane,Mount Isa
+28,Brisbane-Newcastle,Brisbane,Newcastle
+29,Brisbane-Perth,Brisbane,Perth
+30,Brisbane-Proserpine,Brisbane,Proserpine
+31,Brisbane-Rockhampton,Brisbane,Rockhampton
+32,Brisbane-Sydney,Brisbane,Sydney
+33,Brisbane-Townsville,Brisbane,Townsville
+34,Broome-Perth,Broome,Perth
+35,Cairns-Adelaide,Cairns,Adelaide
+36,Cairns-Brisbane,Cairns,Brisbane
+37,Cairns-Melbourne,Cairns,Melbourne
+38,Cairns-Sydney,Cairns,Sydney
+39,Cairns-Townsville,Cairns,Townsville
+40,Canberra-Adelaide,Canberra,Adelaide
+41,Canberra-Brisbane,Canberra,Brisbane
+42,Canberra-Gold Coast,Canberra,Gold Coast
+43,Canberra-Melbourne,Canberra,Melbourne
+44,Canberra-Sydney,Canberra,Sydney
+45,Coffs Harbour-Sydney,Coffs Harbour,Sydney
+46,Darwin-Adelaide,Darwin,Adelaide
+47,Darwin-Brisbane,Darwin,Brisbane
+48,Darwin-Melbourne,Darwin,Melbourne
+49,Darwin-Perth,Darwin,Perth
+50,Darwin-Sydney,Darwin,Sydney
+51,Devonport-Melbourne,Devonport,Melbourne
+52,Dubbo-Sydney,Dubbo,Sydney
+53,Emerald-Brisbane,Emerald,Brisbane
+54,Gladstone-Brisbane,Gladstone,Brisbane
+55,Gold Coast-Adelaide,Gold Coast,Adelaide
+56,Gold Coast-Canberra,Gold Coast,Canberra
+57,Gold Coast-Melbourne,Gold Coast,Melbourne
+58,Gold Coast-Sydney,Gold Coast,Sydney
+59,Hamilton Island-Brisbane,Hamilton Island,Brisbane
+60,Hamilton Island-Sydney,Hamilton Island,Sydney
+61,Hobart-Brisbane,Hobart,Brisbane
+62,Hobart-Melbourne,Hobart,Melbourne
+63,Hobart-Sydney,Hobart,Sydney
+64,Kalgoorlie-Perth,Kalgoorlie,Perth
+65,Karratha-Perth,Karratha,Perth
+66,Launceston-Brisbane,Launceston,Brisbane
+67,Launceston-Melbourne,Launceston,Melbourne
+68,Launceston-Sydney,Launceston,Sydney
+69,Mackay-Brisbane,Mackay,Brisbane
+70,Melbourne-Adelaide,Melbourne,Adelaide
+71,Melbourne-Ayers Rock,Melbourne,Ayers Rock
+72,Melbourne-Brisbane,Melbourne,Brisbane
+73,Melbourne-Cairns,Melbourne,Cairns
+74,Melbourne-Canberra,Melbourne,Canberra
+75,Melbourne-Darwin,Melbourne,Darwin
+76,Melbourne-Devonport,Melbourne,Devonport
+77,Melbourne-Gold Coast,Melbourne,Gold Coast
+78,Melbourne-Hobart,Melbourne,Hobart
+79,Melbourne-Launceston,Melbourne,Launceston
+80,Melbourne-Mildura,Melbourne,Mildura
+81,Melbourne-Newcastle,Melbourne,Newcastle
+82,Melbourne-Perth,Melbourne,Perth
+83,Melbourne-Sunshine Coast,Melbourne,Sunshine Coast
+84,Melbourne-Sydney,Melbourne,Sydney
+85,Mildura-Melbourne,Mildura,Melbourne
+86,Mount Isa-Brisbane,Mount Isa,Brisbane
+87,Newcastle-Brisbane,Newcastle,Brisbane
+88,Newcastle-Melbourne,Newcastle,Melbourne
+89,Newman-Perth,Newman,Perth
+90,Perth-Adelaide,Perth,Adelaide
+91,Perth-Brisbane,Perth,Brisbane
+92,Perth-Broome,Perth,Broome
+93,Perth-Darwin,Perth,Darwin
+94,Perth-Kalgoorlie,Perth,Kalgoorlie
+95,Perth-Karratha,Perth,Karratha
+96,Perth-Melbourne,Perth,Melbourne
+97,Perth-Newman,Perth,Newman
+98,Perth-Port Hedland,Perth,Port Hedland
+99,Perth-Sydney,Perth,Sydney
+100,Port Hedland-Perth,Port Hedland,Perth
+101,Port Lincoln-Adelaide,Port Lincoln,Adelaide
+102,Port Macquarie-Sydney,Port Macquarie,Sydney
+103,Proserpine-Brisbane,Proserpine,Brisbane
+104,Rockhampton-Brisbane,Rockhampton,Brisbane
+105,Sunshine Coast-Melbourne,Sunshine Coast,Melbourne
+106,Sunshine Coast-Sydney,Sunshine Coast,Sydney
+107,Sydney-Adelaide,Sydney,Adelaide
+108,Sydney-Albury,Sydney,Albury
+109,Sydney-Armidale,Sydney,Armidale
+110,Sydney-Ballina,Sydney,Ballina
+111,Sydney-Brisbane,Sydney,Brisbane
+112,Sydney-Cairns,Sydney,Cairns
+113,Sydney-Canberra,Sydney,Canberra
+114,Sydney-Coffs Harbour,Sydney,Coffs Harbour
+115,Sydney-Darwin,Sydney,Darwin
+116,Sydney-Dubbo,Sydney,Dubbo
+117,Sydney-Gold Coast,Sydney,Gold Coast
+118,Sydney-Hamilton Island,Sydney,Hamilton Island
+119,Sydney-Hobart,Sydney,Hobart
+120,Sydney-Launceston,Sydney,Launceston
+121,Sydney-Melbourne,Sydney,Melbourne
+122,Sydney-Perth,Sydney,Perth
+123,Sydney-Port Macquarie,Sydney,Port Macquarie
+124,Sydney-Sunshine Coast,Sydney,Sunshine Coast
+125,Sydney-Wagga Wagga,Sydney,Wagga Wagga
+126,Townsville-Brisbane,Townsville,Brisbane
+127,Townsville-Cairns,Townsville,Cairns
+128,Wagga Wagga-Sydney,Wagga Wagga,Sydney

@@ -1,0 +1,22 @@
+name: Validate airline analysis
+on:
+  push:
+    paths: ['australian-airline-reliability/**', '.github/workflows/validate-airline.yml']
+  pull_request:
+    paths: ['australian-airline-reliability/**', '.github/workflows/validate-airline.yml']
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: australian-airline-reliability
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r requirements.txt
+      - run: python src/pipeline.py --from-curated
+      - run: python src/test_pipeline.py
+      - run: python src/build_powerbi.py
+      - run: git diff --exit-code -- data/processed powerbi

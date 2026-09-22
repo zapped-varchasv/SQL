@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+**/.pbi/
+**/.platform
+**/diagramLayout.json
+**/data/raw/*
+**/reports/*.sqlite

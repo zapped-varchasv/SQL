@@ -1,0 +1,5 @@
+date,route,airline,scope,check,difference,treatment
+2025-07-01,All Ports-All Ports,Skytrans Australia,airline_network,dep_partition,21,Preserved source; on-time rates use on-time/flown. Never use network delayed counts.
+2025-07-01,All Ports-All Ports,All Airlines,industry,dep_partition,21,Preserved source; on-time rates use on-time/flown. Never use network delayed counts.
+2025-07-01,All Ports-All Ports,Skytrans Australia,airline_network,arr_partition,21,Preserved source; on-time rates use on-time/flown. Never use network delayed counts.
+2025-07-01,All Ports-All Ports,All Airlines,industry,arr_partition,21,Preserved source; on-time rates use on-time/flown. Never use network delayed counts.

@@ -1,0 +1,26 @@
+{
+  "source": "BITRE Domestic airline on-time performance time series",
+  "source_url": "https://www.bitre.gov.au/sites/default/files/documents/OTP_Time_Series_Master_Current_LATEST_0.xlsx",
+  "downloaded": "2026-09-22",
+  "source_sha256": "3751779cf1ac2f8bb7f1e8a56546b38aa44d5350467bffe5b2f9882fc539d2dc",
+  "source_sheet": "2023-26 OTP",
+  "period": [
+    "2023-01",
+    "2025-12"
+  ],
+  "source_cohort_rows": 17451,
+  "route_fact_rows": 12860,
+  "routes": 128,
+  "airlines": 7,
+  "case_normalized_rows": 6,
+  "scope_counts": {
+    "route_detail": 12860,
+    "route_control": 4280,
+    "airline_network": 275,
+    "industry": 36
+  },
+  "quality_exception_checks": 4,
+  "route_reconciliation_checks": 29960,
+  "route_reconciliation_nonzero_checks": 0,
+  "metrics": "OTP=SUM(on_time)/SUM(flown); cancellations=SUM(cancelled)/SUM(scheduled). Zero denominators return null."
+}
